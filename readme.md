@@ -65,7 +65,7 @@ Welcome to the AI Summar Bootcamp! This repository contains the module work for 
 
 ---
 
-### Module-0: Python Fundamentals
+### Module-0: Prerequisites
 
 - IDE Setup
 - Python Virtual Environment
