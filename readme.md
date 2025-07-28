@@ -20,6 +20,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-dd2a7b?style=for-the-badge&logo=data:image/svg+xml;base64,REPLACE_WITH_BASE64)
+![LLM](https://img.shields.io/badge/LLM-0057b8?style=for-the-badge&logo=data:image/svg+xml;base64,...)
 
 ---
 
