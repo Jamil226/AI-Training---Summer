@@ -21,6 +21,14 @@
 
 ---
 
+### Tools
+
+Download Python
+https://www.python.org/downloads/?c=ricarthlima
+
+Download Miniconda
+https://www.anaconda.com/docs/getting-started/miniconda/main
+
 # AI Training Summer - Modules
 
 Welcome to the AI Summar Bootcamp! This repository contains the module work for the course, covering fundamental and advanced Python programming,, data analysis with Pandas and NumPy, web scraping, digital image processing using OpenCV and YOLO, and machine learning model tracking with MLFlow. Additionally, it explores large language model fine-tuning with Hugging Face, enabling students to gain hands-on experience in AI-driven applications. This structured curriculum ensures a comprehensive understanding of AI, programming, and data science techniques, preparing students for real-world problem-solving.
