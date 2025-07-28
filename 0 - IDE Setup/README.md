@@ -1,0 +1,3 @@
+### Introductory Session
+
+In this introductory session, we'll explore the fundamental setup required for a smooth Python development experience. We'll begin by setting up an Integrated Development Environment (IDE) and configuring a Python Virtual Environment to manage dependencies efficiently. Additionally, we'll cover essential VS Code shortcuts to boost productivity and streamline coding workflows. By the end of this lab, you'll have a well-configured development environment, enabling you to write and manage Python code effectively.
