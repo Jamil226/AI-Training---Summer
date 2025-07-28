@@ -18,6 +18,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-FFD43B.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-dd2a7b?style=for-the-badge&logo=data:image/svg+xml;base64,REPLACE_WITH_BASE64)
 
 ---
 
