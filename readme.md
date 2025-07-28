@@ -23,10 +23,43 @@
 
 ### Tools
 
+## Download Python
+
+➡️ [**Click here to download Python**](https://www.python.org/downloads/?c=ricarthlima)
+
+- Official website: [python.org](https://www.python.org)
+- Choose the version that matches your operating system:
+  - Windows
+  - macOS
+  - Linux
+- ✅ “Add Python to PATH”
+
+## Download Miniconda (Lightweight Anaconda)
+
+➡️ [**Click here to download Miniconda**](https://www.anaconda.com/docs/getting-started/miniconda/main)
+
+- Miniconda is a minimal installer for Conda
+- Works on all platforms (Windows, macOS, Linux)
+
+## Download Visual Studio Code (Editor)
+
+➡️ [**Click here to download VS Code**](https://code.visualstudio.com/download)
+
+- **Lightweight, fast, and powerful code editor**
+- **Supports**:
+  - Python
+  - Conda
+  - Jupyter
+- **Recommended Extensions**:
+  - Python
+  - Jupyter
+
+---
+
 Download Python
 https://www.python.org/downloads/?c=ricarthlima
 
-Download Miniconda
+Download Miniconda:
 https://www.anaconda.com/docs/getting-started/miniconda/main
 
 # AI Training Summer - Modules
