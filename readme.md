@@ -65,12 +65,6 @@ Welcome to the AI Summar Bootcamp! This repository contains the module work for 
 
 ---
 
-Download Python
-https://www.python.org/downloads/?c=ricarthlima
-
-Download Miniconda:
-https://www.anaconda.com/docs/getting-started/miniconda/main
-
 ### Module-0: Python Fundamentals
 
 - IDE Setup
