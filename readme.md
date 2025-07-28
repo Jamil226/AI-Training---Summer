@@ -36,7 +36,7 @@
 
 ## Download Miniconda (Lightweight Anaconda)
 
-➡️ [**Click here to download Miniconda**](https://www.anaconda.com/docs/getting-started/miniconda/main)
+➡️ [**Click here to download Miniconda**](https://www.anaconda.com/download/success)
 
 - Miniconda is a minimal installer for Conda
 - Works on all platforms (Windows, macOS, Linux)
