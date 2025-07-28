@@ -44,7 +44,7 @@ Welcome to the AI Summar Bootcamp! This repository contains the module work for 
 ### Module 01-a: Python Fundamentals
 
 - Python Basics
-- Variables, data types, String Formatting, Operators
+- Variables, data types, String Formatting, Operators, User Input
 - Control structures: if-else, loops
 - Lists, Tuples, Sets, Dictionaries, Arrays
 - Assignments (Lists, Tuples, Sets, Dictionaries)
