@@ -21,6 +21,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-dd2a7b?style=for-the-badge&logo=data:image/svg+xml;base64,REPLACE_WITH_BASE64)
 ![LLM](https://img.shields.io/badge/LLM-0057b8?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+![LangChain](https://img.shields.io/badge/LangChain-00b386?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-00897B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu/b3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0Ii8+PHJlY3Qgd2lkdGg9IjQiIGhlaWdodD0iMTIiIHg9IjEwIiB5PSI2IiBmaWxsPSIjRkZGIi8+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjQiIHg9IjYiIHk9IjEwIiBmaWxsPSIjRkZGIi8+PC9zdmc+)
 
 ---
 
@@ -197,7 +199,15 @@ Welcome to the AI Summar Bootcamp! This repository contains the module work for 
   - Extracting the Original Text from the HTML Elements and Selectors
   - Extracting the data from Elements and Selectors
 
-### Module 05: LLM OOPs (Fine-Tuning with HuggingFace)
+### Module 05: GenAI - Nuts and Bolts
+
+- Introduction to GenAI
+- Generative Models
+- Hallucinations
+- Model Garden by Google
+- Vertex AI Studio
+
+### Module 06: LLM OOPs (Fine-Tuning with HuggingFace)
 
 - Introduction to Hugging Face
 - Using pre-trained models for text summarization
@@ -205,7 +215,7 @@ Welcome to the AI Summar Bootcamp! This repository contains the module work for 
 - Fine-tuning models for better performance
 - Evaluating summarization results
 
-### Module 06-08: Langchain
+### Module 07-08: Langchain
 
 TBD
 
