@@ -1,7 +1,0 @@
-langchain
-ipykernel
-python-dotenv
-langchain-openai
-langchain-community
-langchain_huggingface
-sentence_transformers
