@@ -211,7 +211,7 @@ Welcome to the AI Summar Bootcamp! This repository contains the module work for 
 
 - Introduction to Hugging Face
 - Using pre-trained models for text summarization
-- Implementing text summarization using Hugging Face transformers
+- Implementing Text Summarization using Hugging Face Transformers
 - Fine-tuning models for better performance
 - Evaluating summarization results
 
