@@ -33,7 +33,7 @@ The course covers a wide range of AI topics, starting from Python fundamentals t
 
 This repository is structured to provide hands-on experience through code examples, assignments, and real-world applications.
 
-## Happy Learning!
+---
 
 # Tools
 
