@@ -216,6 +216,9 @@ This repository is structured to provide hands-on experience through code exampl
 
 ### Module 06: LLMOPs (Fine-Tuning with HuggingFace)
 
+- LLMs Theory (Helping book is also uploaded.)
+- LLMOps Fundamentals
+- Transformers Fundamentals
 - Introduction to Hugging Face
 - Using pre-trained models for text summarization
 - Implementing Text Summarization using Hugging Face Transformers
