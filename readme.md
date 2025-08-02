@@ -261,7 +261,7 @@ TBD
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Jamil226/AI-Training---Summer
+   git clone https://github.com/Jamil226/AI-Training-Summe
    ```
 
 ## Contributing
