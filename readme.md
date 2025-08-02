@@ -24,7 +24,7 @@
 
 ---
 
-# AI Training Summer - Modules
+# AI Training Summer Trainings
 
 Welcome to the **AI Summer Bootcamp** GitHub repository!
 This repo contains all module resources for the faculty training program delivered at **COMSATS University Islamabad, Sahiwal Campus**.
