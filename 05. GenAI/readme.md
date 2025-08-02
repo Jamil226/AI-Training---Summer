@@ -26,6 +26,14 @@ This will create a folder named `.venv` inside your current directory.
 pip install streamlit requests
 ```
 
+OR
+
+Install from requirements.txt
+
+```
+pip install -r requirements.txt
+```
+
 ### 4. Run the Streamlit App
 
 ```

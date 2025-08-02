@@ -1,0 +1,6 @@
+streamlit>=1.36.0
+transformers>=4.41.1
+torch>=2.2.0
+torchvision>=0.17.0
+torchaudio>=2.2.0
+watchdog>=4.0.0  # Optional but improves file watching for Streamlit on macOS
