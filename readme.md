@@ -1,25 +1,25 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFCA28.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300599C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-%23007ACC.svg?style=for-the-badge&logo=nltk&logoColor=white)
-![Spacy](https://img.shields.io/badge/Spacy-09A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-000000.svg?style=for-the-badge&logo=file&logoColor=white)
+
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFCA28.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-FFD43B.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-dd2a7b?style=for-the-badge&logo=data:image/svg+xml;base64,REPLACE_WITH_BASE64)
+![GenAI](https://img.shields.io/badge/GenAI-8A2BE2.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1E1E1E.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/VertexAI-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Claude AI](https://img.shields.io/badge/ClaudeAI-202123.svg?style=for-the-badge&logo=ai&logoColor=white)
+
 ![LLM](https://img.shields.io/badge/LLM-0057b8?style=for-the-badge&logo=data:image/svg+xml;base64,...)
 ![LangChain](https://img.shields.io/badge/LangChain-00b386?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-00897B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu/b3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0Ii8+PHJlY3Qgd2lkdGg9IjQiIGhlaWdodD0iMTIiIHg9IjEwIiB5PSI2IiBmaWxsPSIjRkZGIi8+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjQiIHg9IjYiIHk9IjEwIiBmaWxsPSIjRkZGIi8+PC9zdmc+)
@@ -28,9 +28,14 @@
 
 # AI Training Summer - Modules
 
-Welcome to the AI Summar Bootcamp! This repository contains the module work for the course, covering fundamental and advanced Python programming,, data analysis with Pandas and NumPy, web scraping, digital image processing using OpenCV and YOLO, and machine learning model tracking with MLFlow. Additionally, it explores large language model fine-tuning with Hugging Face, enabling students to gain hands-on experience in AI-driven applications. This structured curriculum ensures a comprehensive understanding of AI, programming, and data science techniques, preparing students for real-world problem-solving.
+Welcome to the **AI Summer Bootcamp** GitHub repository!
+This repo contains all module resources for the faculty training program delivered at **COMSATS University Islamabad, Sahiwal Campus**.
 
----
+The course covers a wide range of AI topics, starting from Python fundamentals to advanced python concepts, data analysis with Pandas and NumPy, web scraping with BeautifulSoup (BS4), and computer vision using OpenCV and YOLOv8. It also includes modules on Generative AI (GenAI) overview, Ollama overview, LLMOps and fine-tuning with Hugging Face, LangChain & LangGraph, MLFlow for model tracking, and Streamlit for building interactive AI dashboards.
+
+This repository is structured to provide hands-on experience through code examples, assignments, and real-world applications.
+
+## Happy Learning!
 
 # Tools
 
