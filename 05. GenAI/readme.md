@@ -1,9 +1,4 @@
-## Run Streamlit in Virtual Environment
-
-```
-python3 -m venv .venv
-
-```
+# Run Streamlit in Virtual Environment
 
 ## Step-by-Step: Create Local venv in Current Directory
 
@@ -37,13 +32,13 @@ pip install streamlit requests
 streamlit run ollama_chat_app.py
 ```
 
-### Testing Ollama API with Postman
+# Testing Ollama API with Postman
 
 This guide shows how to use **Postman** to interact with a **locally running Ollama LLM** (like `gemma:2b` or `llama3`) using the `/api/generate` endpoint.
 
 ---
 
-**Prerequisites**
+## Prerequisites
 
 - Ollama is installed and running
 - A model is pulled and ready (e.g., `gemma:2b`, `llama3`)
@@ -57,7 +52,7 @@ This guide shows how to use **Postman** to interact with a **locally running Oll
   http://localhost:11434/api/generate
   ```
 
-  **Step-by-Step Instructions**
+  ## Step-by-Step Instructions
 
 1. Open Postman
    Launch Postman on your machine.
