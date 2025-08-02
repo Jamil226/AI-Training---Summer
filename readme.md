@@ -202,10 +202,14 @@ Welcome to the AI Summar Bootcamp! This repository contains the module work for 
 ### Module 05: GenAI - Nuts and Bolts
 
 - Introduction to GenAI
-- Generative Models
-- Hallucinations
-- Model Garden by Google
-- Vertex AI Studio
+  - Generative Models
+  - Hallucinations
+  - Model Garden by Google
+  - Vertex AI Studio
+- Ollama Overview
+  - Run Ollama Models on Local Machine
+  - Run Ollama Models with Python GUIs
+  - Ollama and Postman
 
 ### Module 06: LLM OOPs (Fine-Tuning with HuggingFace)
 
