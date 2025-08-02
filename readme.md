@@ -2,7 +2,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300599C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -19,7 +18,6 @@
 ![Ollama](https://img.shields.io/badge/Ollama-1E1E1E.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/VertexAI-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/ClaudeAI-202123.svg?style=for-the-badge&logo=ai&logoColor=white)
-
 ![LLM](https://img.shields.io/badge/LLM-0057b8?style=for-the-badge&logo=data:image/svg+xml;base64,...)
 ![LangChain](https://img.shields.io/badge/LangChain-00b386?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-00897B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu/b3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0Ii8+PHJlY3Qgd2lkdGg9IjQiIGhlaWdodD0iMTIiIHg9IjEwIiB5PSI2IiBmaWxsPSIjRkZGIi8+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjQiIHg9IjYiIHk9IjEwIiBmaWxsPSIjRkZGIi8+PC9zdmc+)
