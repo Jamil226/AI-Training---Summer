@@ -1,7 +1,3 @@
-### Langchain API Keys:
-
-https://smith.langchain.com/o/3e5654ab-e8dd-5429-a106-f453c374aa3d/settings/apikeys
-
 # Project Setup Guide
 
 This project uses **Conda** for environment management, `requirements.txt` for Python dependencies, and a `.env` file for storing environment variables.
@@ -20,8 +16,8 @@ This project uses **Conda** for environment management, `requirements.txt` for P
 ### 1. Create and Activate a Conda Environment
 
 ```bash
-conda create --name myenv python=3.12 -y
-conda activate myenv
+python3 -m venv .venv
+source .venv/bin/activate
 ```
 
 ### 2. Install Dependencies

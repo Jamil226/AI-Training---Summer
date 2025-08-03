@@ -16,12 +16,18 @@ This project uses **Conda** for environment management, `requirements.txt` for P
 ### 1. Create and Activate a Conda Environment
 
 ```bash
-conda create --name myenv python=3.12 -y
-conda activate myenv
+python3 -m venv .venv
+source .venv/bin/activate
 ```
 
 ### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
+```
+
+### 3. List all Packages/Libraries
+
+```bash
+conda list
 ```
