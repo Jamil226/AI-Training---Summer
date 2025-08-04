@@ -29,7 +29,7 @@
 Welcome to the **AI Summer Bootcamp** GitHub repository!
 This repo contains all module resources for the faculty training program delivered at **COMSATS University Islamabad, Sahiwal Campus**.
 
-The course covers a wide range of AI topics, starting from Python fundamentals to advanced python concepts, data analysis with Pandas and NumPy, web scraping with BeautifulSoup (BS4), and computer vision using OpenCV and YOLOv8. It also includes modules on Generative AI (GenAI) overview, Ollama overview, LLMOps and fine-tuning with Hugging Face, LangChain & LangGraph, MLFlow for model tracking, and Streamlit for building interactive AI dashboards.
+The course covers a wide range of AI topics, starting from Python fundamentals to advanced python concepts, data analysis with Pandas and NumPy, web scraping with BeautifulSoup (BS4), and computer vision using OpenCV and YOLOv8. It also includes modules on Generative AI (GenAI) overview, Ollama overview, LLMOps and fine-tuning with Hugging Face, LangChain & LangGraph, and Streamlit for building interactive AI dashboards.
 
 This repository is structured to provide hands-on experience through code examples, assignments, and real-world applications.
 
@@ -225,13 +225,14 @@ This repository is structured to provide hands-on experience through code exampl
 - Fine-tuning models for better performance
 - Evaluating summarization results
 
-### Module 07-08: Langchain
+### Module 07-09: Langchain
 
-TBD
-
-### Module 09: MLFlow
-
-TBD
+- Langchain APIs
+- Data Ingestion
+- Data Transformer
+- Embeddings
+- Vector Storage
+-
 
 ### Module 10: Streamlit
 
