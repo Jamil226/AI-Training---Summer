@@ -11,7 +11,7 @@ This project uses **Conda** for environment management, `requirements.txt` for P
 
 ---
 
-## Step-by-Step Setup
+## 🔧 Step-by-Step Setup
 
 ### 1. Create and Activate a Conda Environment
 

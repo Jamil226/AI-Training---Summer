@@ -11,13 +11,13 @@ This project uses **Conda** for environment management, `requirements.txt` for P
 
 ---
 
-## Step-by-Step Setup
+## 🔧 Step-by-Step Setup
 
 ### 1. Create and Activate a Conda Environment
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
+conda create -p venv python==3.10
+conda activate venv/
 ```
 
 ### 2. Install Dependencies
