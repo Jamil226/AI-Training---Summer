@@ -1,0 +1,9 @@
+prefix=/Users/jamil.226/Desktop/Jamil/University/COMSATS/AI Training Summer/08. Langchain/8. Agents/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 1.1.1w
+Requires: libssl libcrypto
