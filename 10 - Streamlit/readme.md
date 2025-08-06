@@ -1,62 +1,33 @@
-# 📊 Streamlit Data Analysis App with Conda Environment
+# Project Setup Guide
 
-This project sets up a simple **Streamlit** app for data analysis using a **Conda virtual environment**. It also includes installation of essential Python libraries like `pandas`, `matplotlib`, `numpy`, and more.
+This project uses **Conda** for environment management, `requirements.txt` for Python dependencies, and a `.env` file for storing environment variables.
 
-## 🧰 Prerequisites
+## 📦 Prerequisites
 
-- [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
-- Python 3.7 or higher
+- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/)
+- Python 3.11+ (managed via Conda)
+- `.env` file (included in this directory)
+- `requirements.txt` (included)
 
-##  Setup Instructions
+---
 
-### 1️. Create a Conda Environment
+## 🔧 Step-by-Step Setup
 
-Create a new virtual environment named `streamlit_env` with Python:
-
-```bash
-conda create --name streamlit_env python=3.10
-```
-
-### 2️. Activate the Environment
+### 1. Create and Activate a Conda Environment
 
 ```bash
-conda activate streamlit_env
+conda create -p venv python==3.10
+conda activate venv/
 ```
 
-### 3️. Install Streamlit
+### 2. Install Dependencies
 
 ```bash
-pip install streamlit
+pip install -r requirements.txt
 ```
 
-You can test it by running:
+### 3. List all Packages/Libraries
 
 ```bash
-streamlit hello
+conda list
 ```
-
-### 4. Install External Libraries
-
-To perform data analysis, install the following packages:
-
-```bash
-pip install pandas matplotlib numpy seaborn scikit-learn
-```
-
-Or install them all together:
-
-```bash
-pip install streamlit pandas matplotlib numpy seaborn scikit-learn
-```
-
-### 5. Run the app with
-
-```bash
-streamlit run app.py
-```
-
-## Contact
-
-For questions or support, contact: [jamil138.amin@gmail.com]
-
-
