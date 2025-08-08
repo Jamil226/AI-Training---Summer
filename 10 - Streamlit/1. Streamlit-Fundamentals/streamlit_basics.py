@@ -39,10 +39,10 @@ st.subheader("Display Image")
 
 st.image('./media/mountains.webp',
          caption='mountains',
-         width=300)
+         width=500)
 
 st.subheader('Diplay Video')
-video_file = open('./media/star.mp4',mode='rb').read()
+video_file = open('./media/star.mp4', mode='rb').read()
 st.video(video_file)
 
 

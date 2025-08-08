@@ -39,4 +39,4 @@ st.text("Lorem ipsum dummy text")
 
 # st.write
 
-st.write("Lorem ipsum dummy text")
+st.write("Hello World")

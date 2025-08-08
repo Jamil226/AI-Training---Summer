@@ -5,7 +5,7 @@ st.title('Input Widgets')
 
 # Button
 st.header('Button')
-button = st.button('Button') # return true or False
+button = st.button('Submit Record') # return true or False
 if button:
     st.write('You pressed on Button')
 
@@ -25,7 +25,7 @@ st.header('Radio Button')
 # value
 options = ("India","USA","UK","Australia")
 radio_button =st.radio("What is your Favorite Country",
-                       options,index=2) # return an elemetn in a list/tuple
+                       options, index = 2) # return an elemetn in a list/tuple
 st.write('You Favourite country is ',radio_button)
 
 
@@ -45,11 +45,16 @@ slider_range = st.slider('How Old are you ?',
 st.write('You age is ',slider_range)
 
 # Text Inputs
-name = st.text_input('Enter you Name')
-st.write('You name is ',name)
+name = st.text_input('Enter your Full Name')
+st.write('You name is ', name)
 
-age = st.number_input('Enter you age',min_value=1,
-                      max_value=100,step=1,value=25)
+age = st.number_input(
+    'Enter you age',
+    min_value=1,
+    max_value=100,
+    step=1,
+    value=25
+    )
 st.write('You age is ',age)
 
 # Upload File

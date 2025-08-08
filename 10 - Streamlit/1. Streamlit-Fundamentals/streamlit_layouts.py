@@ -1,12 +1,13 @@
 import streamlit as st 
 
-st.set_page_config(page_title="Layouts",layout='wide')
-st.title('Streamlit Layout') # display title format
+st.set_page_config(page_title="Layouts Practice", layout='wide')
+
+st.title('Streamlit Layouts') 
 
 # sidebar
 sidebar = st.sidebar
 sidebar.write('This is my sidebar')
-sidebar.header('Header in sidebar')
+
 
 # columns
 col1, col2, col3 = st.columns(3)
@@ -24,7 +25,7 @@ with col3:
     
 # tabs
 st.header('Display in Tabs')
-tab1, tab2, tab3 = st.tabs(['Cat','Dog','Owl'])
+tab1, tab2, tab3 = st.tabs(['Cat Image','Dog','Owl'])
 
 with tab1:
     st.write('You are in Cat Tab')
